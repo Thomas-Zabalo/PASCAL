@@ -1,1 +1,1 @@
-[Voir le wiki -->](https://github.com/Thomas-Zabalo/PASCAL/wiki)
+[Voir le wiki](https://github.com/Thomas-Zabalo/PASCAL/wiki)
